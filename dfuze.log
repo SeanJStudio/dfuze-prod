@@ -35169,3 +35169,30 @@ There are multiple columns with the value "FILEVER"
 2024-10-10 20:38:07.067 [Code Executer] DEBUG com.mom.dfuze.ui.UiController - New Job Menu pressed
 2024-10-10 20:38:16.489 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - End: 2024-10-11T03:38:16.489958Z
 2024-10-10 20:38:16.489 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - Duration: 38215 ms
+2024-10-11 19:26:32.749 [main] INFO  com.mom.dfuze.Dfuze - Start: 2024-10-12T02:26:32.743636900Z
+2024-10-11 19:26:32.751 [main] DEBUG com.mom.dfuze.Dfuze - Creating the UI
+2024-10-11 19:26:32.805 [main] DEBUG com.mom.dfuze.Dfuze - main thread exiting
+2024-10-11 19:26:32.807 [AWT-EventQueue-0] DEBUG com.mom.dfuze.Dfuze - Setting the Look & Feel
+2024-10-11 19:26:32.988 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - Creating the MainFrame
+2024-10-11 19:26:32.989 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - createUi
+2024-10-11 19:26:33.132 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - addEventHandlers
+2024-10-11 19:41:57.094 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - End: 2024-10-12T02:41:57.094742800Z
+2024-10-11 19:41:57.095 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - Duration: 924351 ms
+2024-10-15 07:20:11.295 [main] INFO  com.mom.dfuze.Dfuze - Start: 2024-10-15T14:20:11.290490800Z
+2024-10-15 07:20:11.296 [main] DEBUG com.mom.dfuze.Dfuze - Creating the UI
+2024-10-15 07:20:11.347 [main] DEBUG com.mom.dfuze.Dfuze - main thread exiting
+2024-10-15 07:20:11.349 [AWT-EventQueue-0] DEBUG com.mom.dfuze.Dfuze - Setting the Look & Feel
+2024-10-15 07:20:11.528 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - Creating the MainFrame
+2024-10-15 07:20:11.528 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - createUi
+2024-10-15 07:20:11.669 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - addEventHandlers
+2024-10-15 07:20:15.531 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - End: 2024-10-15T14:20:15.531928600Z
+2024-10-15 07:20:15.531 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - Duration: 4241 ms
+2024-10-15 07:20:23.903 [main] INFO  com.mom.dfuze.Dfuze - Start: 2024-10-15T14:20:23.900547800Z
+2024-10-15 07:20:23.904 [main] DEBUG com.mom.dfuze.Dfuze - Creating the UI
+2024-10-15 07:20:23.925 [main] DEBUG com.mom.dfuze.Dfuze - main thread exiting
+2024-10-15 07:20:23.926 [AWT-EventQueue-0] DEBUG com.mom.dfuze.Dfuze - Setting the Look & Feel
+2024-10-15 07:20:24.046 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - Creating the MainFrame
+2024-10-15 07:20:24.046 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - createUi
+2024-10-15 07:20:24.130 [AWT-EventQueue-0] DEBUG com.mom.dfuze.ui.MainFrame - addEventHandlers
+2024-10-15 07:20:37.279 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - End: 2024-10-15T14:20:37.279754800Z
+2024-10-15 07:20:37.280 [AWT-EventQueue-0] INFO  com.mom.dfuze.ui.UiController - Duration: 13379 ms
